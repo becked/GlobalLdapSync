@@ -1,2 +1,4 @@
-# GlobalLdapSync
-Sync script to build mail routing ldap from multiple directories
+GlobalLdapSync
+==============
+
+Used to synchronize the mail routing "Global LDAP" server from AD accounts across the enterprise.
